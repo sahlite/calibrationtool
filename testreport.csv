@@ -1,0 +1,9 @@
+NO,PORT,SN,TEN 0%,TEN 5%,TEN 10%,TEN 15%,TEN 20%,TEN 40%,TEN 100%,RESULT,ERROR
+1,COM26,YL0113110024,ok,ok,ok,ok,ok,ok,ok,ok,no
+2,COM5,YL0113110020,ok,ok,ok,ok,ok,ok,ok,ok,no
+3,,YLFFFFFFFFFF,ok,ok,ok,ok,ok,ok,ok,error,read sn failed;check do failed
+4,,YLFFFFFFFFFF,ok,ok,ok,ok,ok,ok,ok,error,read sn failed;check do failed
+5,,YLFFFFFFFFFF,ok,ok,ok,ok,ok,ok,ok,error,read sn failed;check do failed
+6,,YLFFFFFFFFFF,ok,ok,ok,ok,ok,ok,ok,error,read sn failed;check do failed
+7,,YLFFFFFFFFFF,ok,ok,ok,ok,ok,ok,ok,error,read sn failed;check do failed
+8,,YLFFFFFFFFFF,ok,ok,ok,ok,ok,ok,ok,error,read sn failed;check do failed
